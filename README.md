@@ -27,7 +27,7 @@
 
 ---
 
-/*
+<!--
 ## 🚀 Projets récents
 
 | Projet | Description | Stack | Statut |
@@ -39,7 +39,7 @@
 | **📌 Extension “Rappel Intelligent”** | Sauvegarde et rappels personnalisés de pages web, notifications automatisées. | JavaScript, Chrome API, IndexedDB | ![En test](https://img.shields.io/badge/en%20test-yellow?style=flat-square) |
 
 ---
-*/
+-->
 
 ## 🛠️ Stack et outils
 
