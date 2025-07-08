@@ -4,11 +4,6 @@
 
 ---
 
-🚀 **🎓 Actuellement en 2ᵉ année de BUT Informatique.**
-🧠 **J’explore différents domaines de l’informatique : développement, systèmes, réseaux, bases de données et plus encore.**  
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/abed-bridja/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
