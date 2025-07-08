@@ -69,11 +69,10 @@
 
 ## 📌 En ce moment, je travaille sur...
 
-- [x] Certification **RNCP niveau 6 - React.js** (terminée en mai 2024)
-- [ ] Formation CDA (Concepteur Développeur d’Applications) en alternance (dès octobre 2025)
-- [ ] V2 de TeloLabz : refonte UX + automatisations
-- [ ] Nouvelle série vidéo **DevEnGalère** sur YouTube
-- [ ] Apprentissage de **Go** pour des microservices backend performants
+- [ ] Apprendre **JavaFX**  
+  *Maîtriser JavaFX pour développer des interfaces graphiques en Java.*
+- [ ] BOT DISCORD ALERT  
+  *Développement d’un bot Discord pour envoyer des alertes automatiques.*
 
 ---
 
@@ -88,23 +87,17 @@
 > - **Sobriété numérique** : optimiser sans surconsommer.  
 > - **Pédagogie** : rendre le technique compréhensible, utile et clair.
 
-> [!WARNING]  
-> **Ce que je ne fais pas :**  
-> Pas de projets  100% **No-Code** — je privilégie les bases solides, scalables et maintenables.
-
 > [!NOTE]  
-> 💻 Je travaille principalement sous **Windows + WSL2**, avec des outils Linux à portée de terminal.  
-> 🎬 Et hors code, je crée des contenus DevEnGalère ou je peaufine mes workflows d'automatisation.
-
+> 💻 Je développe principalement en **Java, C, SQL**, et je travaille sur des environnements **Linux**.  
+> 🎬 En dehors du code, je me forme à **JavaFX** et explore les concepts de cybersécurité.
 ---
 
 ## 📫 Me contacter
 
-Je suis ouvert à une alternance, un échange ou une future collaboration :
 
-- 📧 [**yvesnarsonkevine@gmail.com**](mailto:yvesnarsonkevine@gmail.com)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/yvesnarsonkevine/)
-- 🌐 [**Bento / Liens utiles**](https://bento.me/kevine-dev)
+- 📧 [**bridja.pro@gmail.com**](mailto:mailto:bridja.pro@gmail.com)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/abed-bridja/)
+- 🌐 [**Bento / Liens utiles**](https://abed0-portfolio.netlify.app/home)
 
 **Hâte de rejoindre une aventure technique et humaine où je pourrai apporter mes compétences tout en continuant à apprendre.**
 
