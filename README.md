@@ -27,17 +27,19 @@
 
 ---
 
+/*
 ## 🚀 Projets récents
 
 | Projet | Description | Stack | Statut |
 |---|---|---|---|
 | [🌐 **Kanto.mg**](https://kanto.mg) | Plateforme qui valorise l’artisanat malgache et favorise des échanges directs et éthiques. | Next.js, Supabase, Tailwind, PostgreSQL | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
-| [🧭 **Portfolio interactif**](https://tonportfolio.com) | Vitrine immersive et animée de mes compétences et réalisations. | Next.js, Framer Motion, ShadCN, Tailwind CSS | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
+| [🧭 **Portfolio interactif**](https://abed0-portfolio.netlify.app/home) | Vitrine immersive et animée de mes compétences et réalisations. | Next.js, Framer Motion, ShadCN, Tailwind CSS | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
 | [🚀 **TeloLabz.com**](https://telolabz.com) | Studio freelance : automatisations, services tech et projets sur mesure. | Astro.js, Markdown, Tailwind, Vercel | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
 | **🧩 Extension “Mots-Clés Finder”** | Extension SEO/rédaction, détection automatique de mots-clés. | JavaScript, Manifest v3, DOM Parsing | ![Production](https://img.shields.io/badge/production-blue?style=flat-square) |
 | **📌 Extension “Rappel Intelligent”** | Sauvegarde et rappels personnalisés de pages web, notifications automatisées. | JavaScript, Chrome API, IndexedDB | ![En test](https://img.shields.io/badge/en%20test-yellow?style=flat-square) |
 
 ---
+*/
 
 ## 🛠️ Stack et outils
 
@@ -107,7 +109,7 @@
 
 - 📧 [**bridja.pro@gmail.com**](mailto:mailto:bridja.pro@gmail.com)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/abed-bridja/)
-- 🌐 [**Ab3d0 / Liens utiles**](https://abed0-portfolio.netlify.app/home)
+- 🌐 [**Ab3d0 / Liens utiles**](https://abed0-portfolio.netlify.app/)
 
 **Hâte de rejoindre une aventure technique et humaine où je pourrai apporter mes compétences tout en continuant à apprendre.**
 
@@ -115,10 +117,4 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ab3d0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ab3d0&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
