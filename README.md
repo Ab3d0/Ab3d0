@@ -20,6 +20,7 @@
 🎓 Étudiant en 2ᵉ année de BUT Informatique, je me forme à la programmation, aux bases de données, aux systèmes Linux, et je développe un intérêt particulier pour la cybersécurité.
 
 💻 J’apprends à coder en Java et C, à manipuler des bases de données en SQL, et à comprendre le fonctionnement des systèmes et réseaux.
+
 🔒 La sécurité informatique m'attire : comprendre les vulnérabilités, protéger les systèmes, et adopter de bonnes pratiques dès la conception.
 
 🧠 Curieux et motivé, j’aime apprendre en pratiquant, relever des défis techniques et approfondir les aspects concrets de l’informatique.
@@ -41,6 +42,7 @@
 ## 🛠️ Stack et outils
 
 <p>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
