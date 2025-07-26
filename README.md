@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Ab3d0
+# 👋 Salut, moi c’est Ab3d0 🇫🇷
 
 **Étudiant en 2ᵉ année de BUT Informatique | Passionné par les technologies, l’apprentissage continu et les défis techniques**
 
