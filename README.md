@@ -1,5 +1,5 @@
 # 👋 Salut, moi c’est Ab3d0 
-**Étudiant en 2ᵉ année de BUT Informatique | Passionné par les technologies, l’apprentissage continu et les défis techniques**
+**Étudiant en 3ᵉ année de BUT Informatique | Passionné par les technologies, l’apprentissage continu et les défis techniques**
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## ✨ À propos
 
-🎓 Étudiant en 2ᵉ année de BUT Informatique, je me forme à la programmation, aux bases de données, aux systèmes Linux, et je développe un intérêt particulier pour la cybersécurité.
+🎓 Étudiant en 3ᵉ année de BUT Informatique, je me forme à la programmation, aux bases de données, aux systèmes Linux, et je développe un intérêt particulier pour la cybersécurité.
 
 💻 J’apprends à coder en Java et C, à manipuler des bases de données en SQL, et à comprendre le fonctionnement des systèmes et réseaux.
 
@@ -95,7 +95,7 @@
 
 - 📧 [**bridja.pro@gmail.com**](mailto:mailto:bridja.pro@gmail.com)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/abed-bridja/)
-- 🌐 [**Ab3d0 / Liens utiles**](https://abed0-portfolio.netlify.app/)
+- 🌐 [**Ab3d0 / Mon Site web**](https://abed0-portfolio.netlify.app/)
 
 **Hâte de rejoindre une aventure technique et humaine où je pourrai apporter mes compétences tout en continuant à apprendre.**
 
